@@ -1,6 +1,6 @@
 # 🔐 SecurePass — Password Strength Checker & Generator
 
-> Idea by **Tala Mufarji**
+> Idea by **Tala Ahmad Mufarrij**
 
 A professional cybersecurity web tool for analyzing password strength and generating secure passwords. Built with Next.js, TypeScript, TailwindCSS, and the zxcvbn algorithm.
 
@@ -124,4 +124,4 @@ MIT — Free to use and modify.
 
 ---
 
-*Idea by Tala Mufarji · Built with Next.js + Vercel*
+*Idea by Tala Ahmad Mufarrij · Built with Next.js + Vercel*

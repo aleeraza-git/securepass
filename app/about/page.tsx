@@ -48,7 +48,7 @@ export default function AboutPage() {
             <h2 className="text-2xl font-display font-bold text-white">Project Idea</h2>
           </div>
           <p className="text-slate-400 text-lg mb-2">Original concept by</p>
-          <p className="text-3xl font-display font-bold neon-text">Tala Mufarji</p>
+          <p className="text-3xl font-display font-bold neon-text">Tala Ahmad Mufarrij</p>
           <p className="text-slate-500 mt-3 text-sm">
             Final Year Project — Cybersecurity Tool Development
           </p>

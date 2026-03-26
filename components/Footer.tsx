@@ -16,7 +16,7 @@ export default function Footer() {
         {/* Credit */}
         <p className="text-slate-500 text-sm font-body flex items-center gap-1">
           Idea by{' '}
-          <span className="text-brand-400 font-semibold ml-1">Tala Mufarji</span>
+          <span className="text-brand-400 font-semibold ml-1">Tala Ahmad Mufarrij</span>
           <Heart size={12} className="text-brand-500 mx-1 fill-brand-500" />
         </p>
 
